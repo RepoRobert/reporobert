@@ -9,8 +9,7 @@ tags:
   - TypeScript
   - Astro
   - warm-up
-description:
-  things to code when you're too lazy to code
+description: things to code when you're too lazy to code
 ---
 
 # Idea 1: Deploy an Astro blog using Vercel 👀
@@ -18,3 +17,5 @@ description:
 It scares me how easy this is.
 
 Templates are eating the world!
+
+Test, test.
