@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing-yourself-as-a-developer.md",
+                "file": "warm-up-exercises-for-developers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marketing-yourself-as-a-developer.md",
+                "file": "warm-up-exercises-for-developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marketing-yourself-as-a-developer.md",
+                "file": "warm-up-exercises-for-developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marketing-yourself-as-a-developer.md"
+                "file": "warm-up-exercises-for-developers.md"
               }
             }
           },
@@ -164,20 +164,20 @@
   },
   "active": "f5abd8c1fca81590",
   "lastOpenFiles": [
-    "portfolio-website-development.md",
-    "marketing-yourself-as-a-developer.md",
-    "warm-up-exercises-for-developers.md",
-    "terminal-development.md",
+    "adding-new-post.md",
+    "astro-paper-2.md",
+    "astro-paper-3.md",
+    "customizing-astropaper-theme-color-schemes.md",
     "dynamic-og-images.md",
     "how-to-add-an-estimated-reading-time.md",
     "how-to-configure-astropaper-theme.md",
     "how-to-connect-astro-paper-blog-with-forestry-cms.md",
     "how-to-update-dependencies.md",
+    "marketing-yourself-as-a-developer.md",
+    "portfolio-website-development.md",
     "predefined-color-schemes.md",
     "tailwind-typography.md",
-    "adding-new-post.md",
-    "astro-paper-2.md",
-    "astro-paper-3.md",
-    "customizing-astropaper-theme-color-schemes.md"
+    "terminal-development.md",
+    "warm-up-exercises-for-developers.md"
   ]
 }

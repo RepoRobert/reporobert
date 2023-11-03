@@ -3,7 +3,7 @@ title: Marketing yourself as a developer
 author: Robert
 pubDatetime: 2023-11-03T19:00:00Z
 postSlug: marketing-yourself-as-a-developer
-featured: true
+featured: false
 draft: false
 tags:
   - marketing

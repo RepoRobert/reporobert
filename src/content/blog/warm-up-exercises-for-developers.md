@@ -3,7 +3,7 @@ title: Warm up exercises for developers
 author: Robert
 pubDatetime: 2023-11-03T17:00:00Z
 postSlug: warm-up-exercises-for-developers
-featured: true
+featured: false
 draft: false
 tags:
   - Astro
