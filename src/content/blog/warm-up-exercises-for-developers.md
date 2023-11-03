@@ -8,7 +8,7 @@ draft: false
 tags:
   - Astro
   - warm-up
-description: things to code when you're too lazy to code
+description: Things to code when you're too lazy to code
 ---
 
 # Idea 1: Deploy an Astro blog using Vercel 👀
