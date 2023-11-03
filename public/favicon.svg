@@ -1,13 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
-  <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.166667"
+     inkscape:cx="11.238806"
+     inkscape:cy="7.8358209"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs28">
+    <linearGradient
+       id="gradient"
+       x1="16"
+       x2="16"
+       y1="32"
+       y2="24"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#000"
+         id="stop23" />
+      <stop
+         offset="1"
+         stop-color="#000"
+         stop-opacity="0"
+         id="stop25" />
     </linearGradient>
   </defs>
-	<style>
+  <style
+     id="style30">
     @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
   </style>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       fill="url(#gradient)"
+       d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"
+       id="path21" />
+    <path
+       d="m 15.895395,14.809403 v 5.386667 q 0,1.306667 0.02667,1.573333 0.02667,0.266667 0.16,0.453334 0.346666,0.373333 2.213333,0.373333 h 0.693333 v 1.44 H 8.3220616 v -1.44 h 0.4 q 1.8400004,0 2.1866664,-0.373333 0.133334,-0.186667 0.16,-0.453334 0.02667,-0.266666 0.02667,-1.573333 V 8.6494032 q 0,-1.3066667 -0.02667,-1.5733334 -0.02667,-0.2666666 -0.16,-0.4533333 Q 10.562062,6.2494032 8.7220616,6.2494032 h -0.4 v -1.44 H 19.708728 q 3.733334,0 5.253334,0.96 2.16,1.4133333 2.16,3.8666666 0,2.7200002 -2.56,4.0266672 -0.853334,0.4 -2.773334,0.773333 1.733334,0.586667 2.586667,1.573333 0.853333,0.986667 1.146667,2.8 l 0.186666,1.013334 0.106667,0.746666 q 0.16,1.04 0.32,1.253334 0.266667,0.4 0.773333,0.4 1.173334,0 1.226667,-2.533334 h 1.44 v 0.32 q 0,2.133334 -1.2,3.306667 -1.173333,1.146667 -3.333333,1.146667 -3.573334,0 -4.266667,-3.173334 -0.133333,-0.773333 -0.373333,-3.333333 -0.08,-1.12 -0.213334,-1.52 -0.106666,-0.426667 -0.426666,-0.826667 -0.72,-0.8 -2.373334,-0.8 z m 0,-1.466666 h 1.466667 q 2.666666,0 3.653333,-0.773334 1.013333,-0.773333 1.013333,-2.7999998 0,-1.8133334 -0.88,-2.6666667 -0.853333,-0.8533333 -2.72,-0.8533333 h -0.64 q -1.28,0 -1.6,0.2933333 -0.293333,0.2666667 -0.293333,1.4133333 z"
+       id="path304"
+       style="font-weight:bold;font-size:32px;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Bold';fill:#000000" />
+  </g>
 </svg>
