@@ -1,7 +1,7 @@
 ---
 title: Example Draft Post
 author: Sat Naing
-pubDatetime: 2022-06-06T04:06:31Z
+pubDatetime: 2023-11-03T17:00:00Z
 postSlug: example-draft-post
 featured: false
 draft: false
