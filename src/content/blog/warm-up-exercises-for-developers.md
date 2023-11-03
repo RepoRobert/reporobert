@@ -18,4 +18,4 @@ It scares me how easy this is.
 
 Templates are eating the world!
 
-Test, test.
+I'm writing this in Obsidian. The workflow is pretty sweet!

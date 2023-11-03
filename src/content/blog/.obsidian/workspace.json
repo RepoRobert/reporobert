@@ -136,13 +136,21 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "5f5d53935dea0ea1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +164,11 @@
   },
   "active": "f5abd8c1fca81590",
   "lastOpenFiles": [
+    "terminal-development.md",
     "warm-up-exercises-for-developers.md",
     "astro-paper-2.md",
     "adding-new-post.md",
     "astro-paper-3.md",
-    "terminal-development.md",
     "tailwind-typography.md",
     "predefined-color-schemes.md",
     "portfolio-website-development.md",
