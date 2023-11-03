@@ -4,7 +4,7 @@ author: Sat Naing
 pubDatetime: 2022-06-06T04:06:31Z
 postSlug: example-draft-post
 featured: false
-draft: true
+draft: false
 tags:
   - TypeScript
   - Astro
@@ -14,7 +14,7 @@ description:
   fringilla est
 ---
 
-Users cannot see this post because it is in draft.
+Users cannot see this post because it is in draft. (not true anymore)
 
 ## Motivation
 
