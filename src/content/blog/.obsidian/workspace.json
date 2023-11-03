@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "a4139720772f3afc",
+    "type": "split",
+    "children": [
+      {
+        "id": "563c62b2ab99d084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc6fa45a367d3067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "astro-paper-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4ded3333b01da59",
+    "type": "split",
+    "children": [
+      {
+        "id": "97969d5169f3add5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d430a32905fbf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03ca236c9ee1233c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "485e828675fc3cf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "221dae71b4f46224",
+    "type": "split",
+    "children": [
+      {
+        "id": "669fada4bd6598ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f64f1564a1e39044",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "astro-paper-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff69e5bbad54eadc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "astro-paper-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61d11c228798f3c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c4bda88df71cefa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "astro-paper-2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc6fa45a367d3067",
+  "lastOpenFiles": [
+    "adding-new-post.md",
+    "warm-up-exercises-for-developers.md",
+    "terminal-development.md",
+    "tailwind-typography.md",
+    "predefined-color-schemes.md",
+    "portfolio-website-development.md",
+    "how-to-update-dependencies.md",
+    "how-to-connect-astro-paper-blog-with-forestry-cms.md",
+    "how-to-configure-astropaper-theme.md",
+    "how-to-add-an-estimated-reading-time.md",
+    "dynamic-og-images.md",
+    "customizing-astropaper-theme-color-schemes.md",
+    "astro-paper-3.md",
+    "astro-paper-2.md"
+  ]
+}
