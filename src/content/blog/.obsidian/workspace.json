@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "adding-new-post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "adding-new-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "adding-new-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "warm-up-exercises-for-developers.md"
+                "file": "adding-new-post.md"
               }
             }
           },
@@ -164,20 +164,20 @@
   },
   "active": "f5abd8c1fca81590",
   "lastOpenFiles": [
-    "adding-new-post.md",
-    "astro-paper-2.md",
-    "astro-paper-3.md",
-    "customizing-astropaper-theme-color-schemes.md",
-    "dynamic-og-images.md",
-    "how-to-add-an-estimated-reading-time.md",
-    "how-to-configure-astropaper-theme.md",
-    "how-to-connect-astro-paper-blog-with-forestry-cms.md",
-    "how-to-update-dependencies.md",
-    "marketing-yourself-as-a-developer.md",
-    "portfolio-website-development.md",
-    "predefined-color-schemes.md",
-    "tailwind-typography.md",
+    "warm-up-exercises-for-developers.md",
     "terminal-development.md",
-    "warm-up-exercises-for-developers.md"
+    "tailwind-typography.md",
+    "predefined-color-schemes.md",
+    "portfolio-website-development.md",
+    "marketing-yourself-as-a-developer.md",
+    "how-to-update-dependencies.md",
+    "how-to-connect-astro-paper-blog-with-forestry-cms.md",
+    "how-to-configure-astropaper-theme.md",
+    "how-to-add-an-estimated-reading-time.md",
+    "dynamic-og-images.md",
+    "customizing-astropaper-theme-color-schemes.md",
+    "astro-paper-3.md",
+    "astro-paper-2.md",
+    "adding-new-post.md"
   ]
 }
