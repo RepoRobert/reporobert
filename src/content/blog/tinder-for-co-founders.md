@@ -12,11 +12,11 @@ description: Every shareholder was once a stranger
 
 A few sites come up if you google "find a cofounder":
 
-- https://www.ycombinator.com/cofounder-matching
-- https://cofounderslab.com/
-- https://www.founderio.com/
-- https://www.starthawk.io/find-a-co-founder
-- https://fi.co/find-a-cofounder
+- [Y Combinator's Co-founder Matching](https://www.ycombinator.com/cofounder-matching)
+- [Cofounderslab](https://cofounderslab.com/)
+- [Founderio](https://www.founderio.com/)
+- [Starthawk's Find a Co-founder](https://www.starthawk.io/find-a-co-founder)
+- [Fi.co's Find a Co-founder](https://fi.co/find-a-cofounder)
 
 Personally, I'm interested in local, Lithuanian "matchmaking." I've spent little time looking for the best platforms, but there are options out there.
 
