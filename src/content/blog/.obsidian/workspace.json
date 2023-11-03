@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "marketing-yourself-as-a-developer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "marketing-yourself-as-a-developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "marketing-yourself-as-a-developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "warm-up-exercises-for-developers.md"
+                "file": "marketing-yourself-as-a-developer.md"
               }
             }
           },
@@ -164,19 +164,20 @@
   },
   "active": "f5abd8c1fca81590",
   "lastOpenFiles": [
-    "terminal-development.md",
     "warm-up-exercises-for-developers.md",
-    "astro-paper-2.md",
-    "adding-new-post.md",
-    "astro-paper-3.md",
-    "tailwind-typography.md",
-    "predefined-color-schemes.md",
+    "marketing-yourself-as-a-developer.md",
+    "terminal-development.md",
+    "dynamic-og-images.md",
+    "how-to-add-an-estimated-reading-time.md",
+    "how-to-configure-astropaper-theme.md",
+    "how-to-connect-astro-paper-blog-with-forestry-cms.md",
     "portfolio-website-development.md",
     "how-to-update-dependencies.md",
-    "how-to-connect-astro-paper-blog-with-forestry-cms.md",
-    "how-to-configure-astropaper-theme.md",
-    "how-to-add-an-estimated-reading-time.md",
-    "dynamic-og-images.md",
+    "predefined-color-schemes.md",
+    "tailwind-typography.md",
+    "adding-new-post.md",
+    "astro-paper-2.md",
+    "astro-paper-3.md",
     "customizing-astropaper-theme-color-schemes.md"
   ]
 }
