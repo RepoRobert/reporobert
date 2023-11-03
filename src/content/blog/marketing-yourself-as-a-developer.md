@@ -19,3 +19,18 @@ I don't like the term "freelance" because you should not spend much time in this
 Anyway, does this Spotify embed work?
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/19vHgVS1aukRiQWhTqfKnE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+It does 🤯 Obsidian can handle so much, it's amazing. As, a developer share the music you're listening to next to code snippets for better marketing 😂 The following HTML is for the song above.
+
+```html
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/track/19vHgVS1aukRiQWhTqfKnE?utm_source=generator&theme=0"
+  width="100%"
+  height="352"
+  frameborder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+></iframe>
+```
