@@ -30,16 +30,15 @@ I've spent some time researching possibilities, and here's the list I've compile
 - [Reception Welcome Service Robot](https://www.amazon.com/Publicity-Automatic-Navigation-Reception-Welcome/dp/B08VWK1FW4/ref=sr_1_9?crid=1F3Y2X1WCU3Z1&keywords=aoborobot&qid=1699187048&sprefix=aoborobo%2Caps%2C184&sr=8-9)
 - [Liquid Chromatography HPLC System](https://www.alibaba.com/product-detail/Gradient-Liquid-Chromatograph-BIOBASE-China-High_1600602781452.html?spm=a2700.galleryofferlist.normal_offer.d_image.2b0c6b44bfMZxp)
 
-It would be financially smart of me to use affiliate links above, but I did not, they're all general links, centered around the Lithuanian consumer (because that's what I am), and the links might brake.
+It would be financially smart of me to use affiliate links above, but I did not, they’re all general links, centered around the Lithuanian consumer (because that’s what I am), and the links might break.
 
-Some of the items are a few thousand more than 10k EUR but I think of them all as in the same "price category."
+Some of the items are a few thousand more than 10k EUR but I think of them all as in the same “price category.”
 
-Personally, out of this list the only thing that I feel drawn to is the 15 kg of silver 😄 The use of it might end as an expensive paperweight, though.
+Personally, out of this list, the only thing that I feel drawn to is the 15 kg of silver 😄 The use of it might end as an expensive paperweight, though.
 
-The point of this post is to document my exploration of the 10,000 EUR price category. People rarely have 10k saved up unless they have a natural love of keeping money in the bank. The average consumer will scratch their spending itch on items in the 100 and 1,000 euro categories. As a purchase in the 1,000 EUR category is "the limit of their imagination" and rare, they likely won't have this sum saved up, and will resort to credit, exposing themselves to the risk of high-interest debt.
+The point of this post is to document my exploration of the 10,000 EUR price category. People rarely have 10k saved up unless they have a natural love of keeping money in the bank. The average consumer will scratch their spending itch on items in the 100 and 1,000 euro categories. As a purchase in the 1,000 EUR category is “the limit of their imagination” and rare, they likely won’t have this sum saved up and will resort to credit, exposing themselves to the risk of high-interest debt.
 
-Expanding your imagination by setting spending goals 10 times larger than what you're used to will condition you to save up 10 times more before you resort to credit. You'll avoid high-interest debt if your credit demands move to the 100,000 and 1,000,000 EUR categories.
+Expanding your imagination by setting spending goals 10 times larger than what you’re used to will condition you to save up 10 times more before you resort to credit. You’ll avoid high-interest debt if your credit demands move to the 100,000 and 1,000,000 EUR categories.
+You might object and say that there’s no way you’ll save tens or thousands of dollars because you just earn too little. It’s true. But a large reason why you’re earning so little is because your spending goals don’t require you to learn how to earn more. Even if you magically could earn 10 times more right now, your spending habits would still stay the same - dangerously exposed to high-interest debt. It’s the reason why lottery winners often ruin their lives after suddenly having so much money to work with - they get eaten by the most vicious loan sharks and find themselves in debt traps of another level.
 
-You might object and say that there's no way you'll save tens or thousands of dollars, because you just earn too little. It's true. But a large reason why you're earning so little is because your spending goals don't require you to learn how to earn more. Even if you magically could earn 10 times more right now, your spending habits would still stay the same - dangerously exposed to high-interest debt. It's the reason why lottery winners often ruin their lives after suddenly having so much money to work with - they get eaten by the most vicious loan sharks, and find themselves in debt traps of another level.
-
-In conclusion, if you Venmo me 10k, I'll buy a lump of metal. The Rolex might be more appealing if my Apple Watch didn't do so much 😄
+In conclusion, if you Venmo me 10k, I’ll buy a lump of metal. The Rolex might be more appealing if my Apple Watch didn’t do so much 😄
