@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "how-to-spend-10k-euros.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "how-to-spend-10k-euros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "warm-up-exercises-for-developers.md",
+                "file": "how-to-spend-10k-euros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "warm-up-exercises-for-developers.md"
+                "file": "how-to-spend-10k-euros.md"
               }
             }
           },
@@ -164,10 +164,11 @@
   },
   "active": "f5abd8c1fca81590",
   "lastOpenFiles": [
+    "warm-up-exercises-for-developers.md",
+    "how-to-spend-10k-euros.md",
     "tinder-for-co-founders.md",
     "marketing-yourself-as-a-developer.md",
     "portfolio-website-development.md",
-    "warm-up-exercises-for-developers.md",
     "adding-new-post.md",
     "terminal-development.md",
     "tailwind-typography.md",
